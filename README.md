@@ -1,4 +1,4 @@
-# LesionTrack - Capstone Project 2020/2021
+# LesionTrack
 
 <p align="center">
     <img src="https://nnethercott.github.io/natenethercott/media/capstone_fullbrain.png" height="350" alt="demo2"/>
