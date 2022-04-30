@@ -1,8 +1,8 @@
 # LesionTrack - Capstone Project 2020/2021
 
 <p align="center">
-    <img src="https://nnethercott.github.io/natenethercott/media/capstone_fullbrain.png" height="450" alt="demo2"/>
-    <img src="https://nnethercott.github.io/natenethercott/media/capstone_convergence.png" height="450" alt="demo2"/>
+    <img src="https://nnethercott.github.io/natenethercott/media/capstone_fullbrain.png" height="350" alt="demo2"/>
+    <img src="https://nnethercott.github.io/natenethercott/media/capstone_convergence.png" height="350" alt="demo2"/>
 </p>
 
 |**Languages** | **Libraries** |
