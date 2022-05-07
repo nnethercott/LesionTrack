@@ -21,7 +21,7 @@ The main implementation can be found in `implementation.ipynb`
 <a name="motivation"/>
 
 ## Motivation
-To develop a brain-lesion identification algorithm with the goal of accurately labelling MRI and CT scan input images while simultaneously reducing human time manually accomplishing the task. 
+To develop a brain-lesion identification algorithm with the goal of accurately labelling MRI and CT scan input images while simultaneously reducing human time spent manually accomplishing the task. 
 
 <a name="requirements"/>
 
