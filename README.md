@@ -7,7 +7,7 @@
 
 |**Languages** | **Libraries** |
 | -----| ---- |
-|![Python](https://img.shields.io/badge/Python-yellow) ![Java](https://img.shields.io/badge/Java-blue)| ![Numpy](https://img.shields.io/badge/Numpy-1.19.5-brightgreen) ![Flask](https://img.shields.io/badge/Pillow-9.1.0-brightgreen) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.1-brightgreen)
+|![Python](https://img.shields.io/badge/Python-ff11ff) ![Java](https://img.shields.io/badge/Java-11ffff)| ![Numpy](https://img.shields.io/badge/Numpy-1.19.5-11ff11) ![Flask](https://img.shields.io/badge/Pillow-9.1.0-11ff11) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.1-11ff11)
 
 
 <a name="description"/>
