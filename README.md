@@ -13,7 +13,7 @@
 <a name="description"/>
 
 ## Description
-An algorithmic approach for tracking and identifying brain lesions/tumours based on the principles of Calculus of Variations is proposed and implemented as a final year thesis project at Queen's University.  For a detailed summary of the mathematics check out [this paper]( https://github.com/nnethercott/LesionTrack/blob/main/Capstone_Report.pdf)
+An implementation of the level set method for tracking and identifying brain lesions/tumours based on the principles of Calculus of Variations is proposed and implemented as a final year thesis project at Queen's University.  For a detailed summary of the mathematics check out [this paper]( https://github.com/nnethercott/LesionTrack/blob/main/Capstone_Report.pdf)
 
 The main implementation can be found in `implementation.ipynb` 
 
