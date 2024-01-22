@@ -1,8 +1,8 @@
 # LesionTrack
 
 <p align="center">
-    <img src="https://nnethercott.github.io/natenethercott/media/capstone_fullbrain.png" height="350" alt="demo2"/>
-    <img src="https://nnethercott.github.io/natenethercott/media/capstone_convergence.png" height="350" alt="demo2"/>
+    <img src="./media/capstone_fullbrain.png" height="350" alt="demo2"/>
+    <img src="./media/capstone_convergence.png" height="350" alt="demo2"/>
 </p>
 
 |**Languages** | **Libraries** |
@@ -49,7 +49,7 @@ The proposed algorithm accomplishes:
 * Algorithm runtime of 5-10 seconds on an image of ~100x100px. Java implementation cuts this computation time in half. 
 
 <p align="center">
-    <img src="https://nnethercott.github.io/natenethercott/media/capstone_test.png" height="450" alt="demo2"/>
+    <img src="./media/capstone_test.png" height="450" alt="demo2"/>
 </p>
 
 ## Next Steps
